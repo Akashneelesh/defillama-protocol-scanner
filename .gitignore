@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+data/protocols.json
+data/filtered.json
+data/verified.json
+reports/protocols-verified-open-source-*.md
