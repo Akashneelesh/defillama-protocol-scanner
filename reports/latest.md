@@ -1,6 +1,6 @@
 # Verified Open-Source DeFi Protocols
 
-**Snapshot:** 2026-09-06
+**Snapshot:** 2026-09-07
 **Sources:** `https://api.llama.fi/protocols` + GitHub REST API `/users/{org}/repos`
 
 ## Verdict Summary
@@ -32,7 +32,7 @@ A repo is flagged as a contract repo if any of:
 | 5 | **BiFi** | $4.70M | Lending | Bifrost Network, Ethereum, Binance +2 | [bifrost-platform](https://github.com/bifrost-platform) | [BIFI](https://github.com/bifrost-platform/BIFI) `Solidity` ★27<br>[BiFi-Bifrost-Extension-Contract](https://github.com/bifrost-platform/BiFi-Bifrost-Extension-Contract) `Solidity` ★5<br>[BiFi-X](https://github.com/bifrost-platform/BiFi-X) `Solidity` ★9 +2 more |
 | 6 | **Awaken Swap** | $4.64M | Dexs | aelf | [Awaken-Finance](https://github.com/Awaken-Finance) | [awaken-swap-contract](https://github.com/Awaken-Finance/awaken-swap-contract) `C#` ★0<br>[sdk-core](https://github.com/Awaken-Finance/sdk-core) `TypeScript` ★0 |
 | 7 | **Indigo** | $4.47M | CDP | Cardano | [IndigoProtocol](https://github.com/IndigoProtocol) | [indigo-smart-contracts](https://github.com/IndigoProtocol/indigo-smart-contracts) `Haskell` ★18 |
-| 8 | **xExchange** | $4.32M | Dexs | Elrond | [multiversx](https://github.com/multiversx) | [mx-sdk-js-core](https://github.com/multiversx/mx-sdk-js-core) `TypeScript` ★73<br>[mx-contracts-rs](https://github.com/multiversx/mx-contracts-rs) `Rust` ★13<br>[mx-chain-core-go](https://github.com/multiversx/mx-chain-core-go) `Go` ★12 +1 more |
+| 8 | **xExchange** | $4.32M | Dexs | Elrond | [multiversx](https://github.com/multiversx) | [mx-chain-core-go](https://github.com/multiversx/mx-chain-core-go) `Go` ★12<br>[mx-sdk-js-core](https://github.com/multiversx/mx-sdk-js-core) `TypeScript` ★73<br>[mx-contracts-rs](https://github.com/multiversx/mx-contracts-rs) `Rust` ★13 |
 | 9 | **Mangrove** | $4.29M | Dexs | Blast, Arbitrum | [mangrovedao](https://github.com/mangrovedao) | [vaults-v2-chainlink-adapter](https://github.com/mangrovedao/vaults-v2-chainlink-adapter) `Solidity` ★0<br>[mangrove-strats](https://github.com/mangrovedao/mangrove-strats) `Solidity` ★2<br>[mangrove-core](https://github.com/mangrovedao/mangrove-core) `Solidity` ★49 +2 more |
 | 10 | **OroSwap** | $4.08M | Dexs | ZIGChain | [oroswap](https://github.com/oroswap) | [oro-evm](https://github.com/oroswap/oro-evm) `Solidity` ★0<br>[oroswap-core](https://github.com/oroswap/oroswap-core) `Rust` ★0 |
 | 11 | **Bunny** | $4.02M | Yield | Binance, Polygon | [PancakeBunny-finance](https://github.com/PancakeBunny-finance) | [Bunny](https://github.com/PancakeBunny-finance/Bunny) `Solidity` ★174<br>[qubit-finance](https://github.com/PancakeBunny-finance/qubit-finance) `Solidity` ★31<br>[PolygonBUNNY](https://github.com/PancakeBunny-finance/PolygonBUNNY) `Solidity` ★4 +1 more |
@@ -143,7 +143,7 @@ A repo is flagged as a contract repo if any of:
 | 116 | **Drop** | $530k | Liquid Staking | Neutron | [hadronlabs-org](https://github.com/hadronlabs-org) | [drop-tge-contracts](https://github.com/hadronlabs-org/drop-tge-contracts) `Rust` ★1<br>[drop-helper-contracts](https://github.com/hadronlabs-org/drop-helper-contracts) `Rust` ★0 |
 | 117 | **EZManager** | $529k | Liquidity Manager | Base, Robinhood Chain, Hyperliquid L1 +3 | [EZManagerCL](https://github.com/EZManagerCL) | [EZManagerContracts](https://github.com/EZManagerCL/EZManagerContracts) `Solidity` ★0 |
 | 118 | **UFarm Digital** | $523k | Onchain Capital Allocator | Ethereum, Arbitrum | [UFarmDigital](https://github.com/UFarmDigital) | [UFarm-EVM-Contracts](https://github.com/UFarmDigital/UFarm-EVM-Contracts) `TypeScript` ★2 |
-| 119 | **MooniSwap** | $521k | Dexs | Ethereum | [1inch](https://github.com/1inch) | [aqua](https://github.com/1inch/aqua) `Solidity` ★108<br>[swap-vm](https://github.com/1inch/swap-vm) `Solidity` ★37<br>[evm-helpers](https://github.com/1inch/evm-helpers) `Solidity` ★18 +2 more |
+| 119 | **MooniSwap** | $521k | Dexs | Ethereum | [1inch](https://github.com/1inch) | [aqua](https://github.com/1inch/aqua) `Solidity` ★109<br>[swap-vm](https://github.com/1inch/swap-vm) `Solidity` ★38<br>[evm-helpers](https://github.com/1inch/evm-helpers) `Solidity` ★18 +2 more |
 | 120 | **Wombex Finance** | $519k | Yield | Binance, Arbitrum | [wombex-finance](https://github.com/wombex-finance) | [wombex-contracts](https://github.com/wombex-finance/wombex-contracts) `TypeScript` ★5 |
 | 121 | **Ante Finance** | $509k | Insurance | Ethereum, Binance, Avalanche +5 | [antefinance](https://github.com/antefinance) | [ante-v05-core](https://github.com/antefinance/ante-v05-core) `TypeScript` ★6<br>[ante-community-tests](https://github.com/antefinance/ante-community-tests) `Solidity` ★35<br>[ante-v06-core](https://github.com/antefinance/ante-v06-core) `TypeScript` ★1 |
 | 122 | **Aurigami** | $504k | Lending | Aurora | [Aurigami-Finance](https://github.com/Aurigami-Finance) | [aurigami-smart-contracts](https://github.com/Aurigami-Finance/aurigami-smart-contracts) `Solidity` ★0 |
